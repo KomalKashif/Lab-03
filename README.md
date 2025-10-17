@@ -4,4 +4,7 @@ This line is locally added.
 Making a local change.
 Remote edit again
 
+First test line for reset
+
+
 
