@@ -1,3 +1,5 @@
+This is the local change.
+
 This line was updated remotely again.
 This line was updated locally at the same time.
 This line is locally added.
