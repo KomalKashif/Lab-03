@@ -6,5 +6,10 @@ Remote edit again
 
 First test line for reset
 
+First test line for amend commit.
+Another line for amend commit.
+
+
+
 
 
