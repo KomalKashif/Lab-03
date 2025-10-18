@@ -1,5 +1,8 @@
 This is the local change.
 
+This is the remote change.
+
+
 This line was updated remotely again.
 This line was updated locally at the same time.
 This line is locally added.
@@ -10,6 +13,8 @@ First test line for reset
 
 First test line for amend commit.
 Another line for amend commit.
+
+This is the remote change.
 
 
 
