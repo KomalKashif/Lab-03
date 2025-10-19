@@ -1,5 +1,7 @@
 The local version
 
+The remote version
+
 This is the local change.
 
 This is the remote change.
