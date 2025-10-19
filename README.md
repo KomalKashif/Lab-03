@@ -1,4 +1,4 @@
-The local version.
+The local version
 
 This is the local change.
 
